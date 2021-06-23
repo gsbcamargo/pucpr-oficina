@@ -1,4 +1,3 @@
-import { format } from 'path';
 import { formatPrice } from './helpers';
 import { Product } from './types';
 
